@@ -14,7 +14,11 @@ Additionally when working within teams using a VCS means that multiple users can
 
 Most VCS will have an approvals process built into the system allowing teams extra security before a file is updated or pushed to live. Approval processes can allow more senior users or project managers to check the work of other team members therefore decreasing the risk of pushing a project live with errors. 
 
-In conclusion, VCS help users monitor changes within files therefore maintaining the workflow of the project or team you are working with. They allow developers to make changes to files without worrying that something will get lost or undocumented.  As version control offers a backup and full history of a project / file, If a mistake is made or an error found, the individual or team can turn back the clock on the file to compare earlier versions or fix the mistake all while minimising disruption to the project. Without VCS none of this is possible, users will waste valuable time on errors and run an increased risk of losing work and struggling to collaborate with colleagues. References
+In conclusion, VCS help users monitor changes within files therefore maintaining the workflow of the project or team you are working with. They allow developers to make changes to files without worrying that something will get lost or undocumented.  As version control offers a backup and full history of a project / file, If a mistake is made or an error found, the individual or team can turn back the clock on the file to compare earlier versions or fix the mistake all while minimising disruption to the project. Without VCS none of this is possible, users will waste valuable time on errors and run an increased risk of losing work and struggling to collaborate with colleagues. 
+
+
+
+References
 
 Atlassian. (2020) What is version control. Available at: https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=non%2Dsoftware%20projects.-,Benefits%20of%20version%20control%20systems,scales%20to%20include%20more%20developers. (Accessed 11 October 2022). 
 
